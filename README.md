@@ -2,15 +2,11 @@
 
 > A simple model using Zdog 3D modelling.
 
----
-
 ## Build config
 
-Install dependencies
-
+Install dependencies: 
 ``` npm i ```
 
-Run
-
+Run: 
 ``` npm start ```
 
